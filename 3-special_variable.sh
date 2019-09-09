@@ -1,6 +1,9 @@
 #!/bin/sh
 # $2 second arg
 # $1 first arg
+echo "Desc:"
+echo "try all the usage of special variable of shell script..."
+
 echo "$2" "$1"
 # $$ -> current shell pid
 echo $$
