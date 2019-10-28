@@ -1,7 +1,7 @@
 #!/bin/sh
 echo "Desc:"
 echo "\"Case\" example here..."
-echo "show an example for examine input argument is string of file or directory"
+echo "show an example for echoing your selection"
 
 echo $0
 arg1=$1
